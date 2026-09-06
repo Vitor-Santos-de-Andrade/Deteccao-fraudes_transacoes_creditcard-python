@@ -2,7 +2,7 @@
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-Desafio de projeto do Bootcamp Bradesco da DIO, sobre treinar um modelo de Machine Learning em python para detectar anomalias em transações, em que utilizei o jupiter notebook para compor todo o projeto. Foi utilizado o dataset `creditcard.csv` para ser carregado no arquivo `deteccao.ipynb`. Além disso, utilizei o modelo Logistic Regression para verificar as métricas antes do balanceamento e o LGBMClassifier com smote para definir os resultados. 
+Desafio de projeto do Bootcamp Bradesco da DIO, sobre treinar um modelo de Machine Learning em python para detectar anomalias em transações, em que utilizei o jupyter notebook para compor todo o projeto. Foi utilizado o dataset `creditcard.csv` para ser carregado no arquivo `deteccao.ipynb`. Além disso, utilizei o modelo Logistic Regression para verificar as métricas antes do balanceamento e o LGBMClassifier com smote para definir os resultados. 
 ## Objetivo
 Desenvolver um programa para treinar um modelo de Machine Learning, a fim de detectar o máximo de fraudes em transações em cartões de crédito, porém mantendo o equilíbrio entre recall e precision.
 ## Bibliotecas
